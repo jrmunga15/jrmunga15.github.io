@@ -1,3 +1,2 @@
-# jrmunga15.github.io
-jrmunga15.github.io 
+# My Portfolio
 <a href="https://github.com/jrmunga15/eyeexercise">Eyes Exercise</a>
